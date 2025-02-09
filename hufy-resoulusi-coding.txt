@@ -1,0 +1,25 @@
+🚀 Resolusi 2025: Menjadi Handal dalam Coding!
+Halo! 🎉 Tahun 2025 adalah tahun di mana saya ingin meningkatkan skill coding dan menjadi lebih handal dalam pengembangan software. Repository ini akan menjadi catatan perjalanan belajar saya, mencakup roadmap, tantangan, serta proyek-proyek yang akan saya kerjakan sepanjang tahun.
+
+🎯 Target Utama 2025:
+✅ Menguasai HTML, CSS, dan JavaScript untuk membangun website interaktif
+✅ Belajar satu framework JavaScript (React)
+✅ Membuat minimal 5 proyek nyata untuk portofolio
+✅ Berpartisipasi dalam open-source di GitHub
+✅ Belajar struktur data & algoritma untuk meningkatkan problem-solving
+✅ Konsisten ngoding setiap hari dengan mengikuti tantangan seperti #100DaysOfCode
+
+📂 Struktur Repository
+📁 roadmap/ → Rencana belajar & materi yang digunakan
+📁 projects/ → Kumpulan proyek yang aku buat sepanjang tahun
+📁 challenges/ → Tantangan coding harian & latihan soal
+📁 notes/ → Catatan dan kesimpulan dari apa yang sudah dipelajari
+
+🔥 Motivasi & Catatan Pribadi
+"kita usahakan si rajin coding tersebut!"
+
+Kalau kamu punya tips atau ingin belajar bareng, feel free untuk fork, star, atau kasih saran! 🚀
+
+📌 Let's make 2025 the year of coding mastery! 💻🔥
+
+✨ Semangat belajar dan selamat ngoding! 🚀
