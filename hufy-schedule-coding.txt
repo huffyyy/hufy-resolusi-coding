@@ -17,3 +17,19 @@
 🔹 15:30 - 16:00 → Istirahat (Ngemil, Jalan Santai, atau Meditasi Ringan)
 
 🔹 16:00 - 17:00 → Review & Praktik Kode yang Sudah Dipelajari
+
+🕒 Jadwal Belajar HTML5 & CSS Grid (06:00 - 18:00)
+🔹 06:00 - 08:00 → Belajar HTML5
+✅ Struktur dasar HTML5
+✅ Elemen & semantic tags (<header>, <section>, <article>, dll.)
+✅ Formulir, tabel, dan multimedia (<audio>, <video>)
+
+🔹 08:00 - 08:30 → Istirahat (Sarapan & Stretching)
+
+🔹 08:30 - 10:30 → Belajar CSS Grid (Dasar)
+✅ Mengenal display: grid & konsep kolom/baris
+✅ Properti Grid: grid-template-rows, grid-template-columns, dll.
+
+🔹 10:30 - 11:00 → Istirahat (Jalan Santai / Refreshing)
+
+🔹 11:00 - 12:30 → Praktik Proyek HTML5 & CSS Grid
