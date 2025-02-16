@@ -50,3 +50,10 @@
 
 🔹 17:30 - 18:00 → Santai & Evaluasi Hari Ini
 ✅ Catat hal yang dipelajari & rencana besok
+
+📌 Tips:
+
+Jika merasa terlalu padat, tambahkan lebih banyak istirahat.
+Gunakan Front-end Mentor atau CSS Grid Playground untuk latihan interaktif.
+Pastikan untuk mengulang & praktik langsung supaya pemahaman semakin kuat.
+🔥 Semangat belajar dan happy coding! 🚀
