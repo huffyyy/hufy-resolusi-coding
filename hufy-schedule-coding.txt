@@ -1,4 +1,4 @@
-🕒 Jadwal Belajar Coding & Istirahat (07:00 - 17:00)
+🕒 Jadwal Belajar Coding CSS dan Git & Github & Istirahat (07:00 - 17:00)
 🔹 07:00 - 09:00 → Belajar Coding (GitHub & CSS)
 ✅ Mulai dengan 1 materi GitHub → Latihan praktis
 ✅ Lanjut ke CSS → Mengerjakan latihan atau proyek kecil
@@ -17,3 +17,43 @@
 🔹 15:30 - 16:00 → Istirahat (Ngemil, Jalan Santai, atau Meditasi Ringan)
 
 🔹 16:00 - 17:00 → Review & Praktik Kode yang Sudah Dipelajari
+
+🕒 Jadwal Belajar HTML5 & CSS Grid (06:00 - 18:00)
+🔹 06:00 - 08:00 → Belajar HTML5
+✅ Struktur dasar HTML5
+✅ Elemen & semantic tags (<header>, <section>, <article>, dll.)
+✅ Formulir, tabel, dan multimedia (<audio>, <video>)
+
+🔹 08:00 - 08:30 → Istirahat (Sarapan & Stretching)
+
+🔹 08:30 - 10:30 → Belajar CSS Grid (Dasar)
+✅ Mengenal display: grid & konsep kolom/baris
+✅ Properti Grid: grid-template-rows, grid-template-columns, dll.
+
+🔹 10:30 - 11:00 → Istirahat (Jalan Santai / Refreshing)
+
+🔹 11:00 - 12:30 → Praktik Proyek HTML5 & CSS Grid
+✅ Membangun layout sederhana dengan Grid
+✅ Eksperimen dengan grid-gap, align-items, justify-content
+
+🔹 12:30 - 13:30 → Makan Siang & Istirahat
+
+🔹 13:30 - 15:00 → Belajar CSS Grid (Lanjutan)
+✅ Menggunakan grid-template-areas
+✅ Media Queries untuk membuat desain responsif
+
+🔹 15:00 - 15:30 → Istirahat (Ngemil & Refreshing)
+
+🔹 15:30 - 17:30 → Proyek Mini & Review Materi
+✅ Membangun halaman web dengan HTML5 & CSS Grid
+✅ Menyelesaikan challenge atau latihan tambahan
+
+🔹 17:30 - 18:00 → Santai & Evaluasi Hari Ini
+✅ Catat hal yang dipelajari & rencana besok
+
+📌 Tips:
+
+Jika merasa terlalu padat, tambahkan lebih banyak istirahat.
+Gunakan Front-end Mentor atau CSS Grid Playground untuk latihan interaktif.
+Pastikan untuk mengulang & praktik langsung supaya pemahaman semakin kuat.
+🔥 Semangat belajar dan happy coding! 🚀
