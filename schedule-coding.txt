@@ -1,0 +1,19 @@
+🕒 Jadwal Belajar Coding & Istirahat (07:00 - 17:00)
+🔹 07:00 - 09:00 → Belajar Coding (GitHub & CSS)
+✅ Mulai dengan 1 materi GitHub → Latihan praktis
+✅ Lanjut ke CSS → Mengerjakan latihan atau proyek kecil
+
+🔹 09:00 - 09:30 → Istirahat (Stretching, Sarapan, Minum Air)
+
+🔹 09:30 - 11:30 → Lanjut Belajar Coding (CSS & Latihan Proyek)
+✅ Mengerjakan challenge atau eksplorasi lebih dalam
+
+🔹 11:30 - 12:30 → Break (Makan Siang & Santai)
+
+🔹 12:30 - 14:00 →  Power Sleep
+
+🔹 14:00 - 15:30 → Lanjut Belajar Coding (Mendalami Materi & Implementasi)
+
+🔹 15:30 - 16:00 → Istirahat (Ngemil, Jalan Santai, atau Meditasi Ringan)
+
+🔹 16:00 - 17:00 → Review & Praktik Kode yang Sudah Dipelajari
