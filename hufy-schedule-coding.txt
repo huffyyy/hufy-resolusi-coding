@@ -33,3 +33,20 @@
 🔹 10:30 - 11:00 → Istirahat (Jalan Santai / Refreshing)
 
 🔹 11:00 - 12:30 → Praktik Proyek HTML5 & CSS Grid
+✅ Membangun layout sederhana dengan Grid
+✅ Eksperimen dengan grid-gap, align-items, justify-content
+
+🔹 12:30 - 13:30 → Makan Siang & Istirahat
+
+🔹 13:30 - 15:00 → Belajar CSS Grid (Lanjutan)
+✅ Menggunakan grid-template-areas
+✅ Media Queries untuk membuat desain responsif
+
+🔹 15:00 - 15:30 → Istirahat (Ngemil & Refreshing)
+
+🔹 15:30 - 17:30 → Proyek Mini & Review Materi
+✅ Membangun halaman web dengan HTML5 & CSS Grid
+✅ Menyelesaikan challenge atau latihan tambahan
+
+🔹 17:30 - 18:00 → Santai & Evaluasi Hari Ini
+✅ Catat hal yang dipelajari & rencana besok
